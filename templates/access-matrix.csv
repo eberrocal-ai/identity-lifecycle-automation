@@ -1,0 +1,4 @@
+Role,Entitlement,Access Type,Approver,Review Frequency,Removal Trigger,Notes
+All Employees,M365-Base,Birthright,IT Owner,Quarterly,Separation,Fictional example
+Finance Analyst,Finance-App-Standard,Role,Finance Owner,Quarterly,Role change or separation,Fictional example
+
